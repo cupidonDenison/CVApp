@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>result</key>
+	<dict/>
+	<key>skills</key>
+	<dict>
+		<key>description</key>
+		<array/>
+		<key>area</key>
+		<array/>
+	</dict>
+	<key>experience</key>
+	<dict>
+		<key>end</key>
+		<array/>
+		<key>start</key>
+		<array/>
+		<key>position</key>
+		<array/>
+		<key>company</key>
+		<array/>
+	</dict>
+	<key>profile</key>
+	<array>
+		<string>name</string>
+		<string>surname</string>
+		<string>mobile</string>
+		<string>address1</string>
+		<string>address2</string>
+		<string>city</string>
+	</array>
+	<key>education</key>
+	<dict>
+		<key>end</key>
+		<array/>
+		<key>start</key>
+		<array/>
+		<key>qualification</key>
+		<array/>
+		<key>institution</key>
+		<array/>
+	</dict>
+</dict>
+</plist>
